@@ -1,0 +1,14 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.button{
+    position: fixed;
+    top: 90%;
+    right: 5%;
+    z-index: 100;
+}
